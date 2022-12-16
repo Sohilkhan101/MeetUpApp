@@ -1,0 +1,61 @@
+.meetup {
+  border: 2px solid black;
+  padding: 5px;
+  box-shadow: 1px 1px 25px 5px grey inset;
+  display: grid;
+  margin-bottom: 50px;
+}
+
+.name {
+  padding: 5px 0px;
+  border-bottom: 2px solid gray;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.desc {
+  font-weight: bold;
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+.meetup label {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.meetup input {
+  width: 30px;
+  font-size: 1.2rem;
+}
+.btn {
+  font-weight: bolder;
+  border-radius: 5px;
+  padding: 5px 25px;
+  background-color: rgb(145, 231, 145);
+  color: black;
+  border: 1px solid green;
+}
+
+.btn:hover {
+  font-weight: bolder;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+}
+
+.delete {
+  margin: 2% 5%;
+  font-weight: bolder;
+  display: flex;
+  justify-content: space-between;
+}
+.location {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 4px 2px;
+  border-bottom: 3px solid rgb(18, 13, 91);
+  font-weight: bold;
+  font-size: 1.3rem;
+}

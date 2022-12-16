@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.bg {
+  height: 700px;
+  margin-top: -200px;
+  background-image: url("https://secure.meetupstatic.com/s/img/591384737855536639/app_download/social/fb/meetup.es.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.welcome {
+  text-align: center;
+  display: block;
+  padding-top: 300px;
+  margin: 0px 690px;
+}

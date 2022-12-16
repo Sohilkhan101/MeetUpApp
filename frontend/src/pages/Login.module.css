@@ -1,0 +1,25 @@
+.login {
+  border: 3px solid black;
+  margin: 0px auto;
+  box-shadow: 10px 10px 25px 5px lightblue inset;
+  padding: 20px;
+  width: 50%;
+}
+.username {
+  font-size: 20px;
+  margin: 0px 33.5%;
+  text-shadow: 0 0 3px #ff0000;
+}
+.input {
+  display: flex;
+  font-size: 20px;
+  margin: 10px auto;
+  margin-top: 20px;
+}
+.heading {
+  padding-bottom: 30px;
+  text-shadow: 2px 2px 5px red;
+  font-size: 30px;
+  display: flex;
+  margin: 0px 45%;
+}
